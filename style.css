@@ -1,5 +1,13 @@
 @import url(reset.css);
 
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
 
 
 body {
@@ -210,8 +218,9 @@ h5.title {
 	border: 7px solid #f1f1f1;
 	align-content: center;
 	margin-left: 42px;
-
 }
+
+
 
 
 
